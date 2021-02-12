@@ -2,7 +2,7 @@ from pydub import AudioSegment
 from pydub import playback
 import time
 
-speakers = ["ammar", "abrar"]
+speakers = ["ammar", ]
 speaker_name = speakers[0]
 
 def loadDigit(base, digit):
